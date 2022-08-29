@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-#!/bin/bash
-python3 $PYFILE
-=======
 #!/bin/bash
 print ("C is fun!")
->>>>>>> 2f72963d33af326c4a70bd1595f23298e2c48240
